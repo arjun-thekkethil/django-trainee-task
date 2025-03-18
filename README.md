@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# accuknox-internship-tasks
-=======
-# django-trainee-task
->>>>>>> e625f5bf574964d3c5c67a6de00cb168a005929a
+# Django Trainee Task – AccuKnox
+
+This repository contains solutions for the technical tasks assigned for the **Django Trainee position at AccuKnox**. It includes detailed answers, code demonstrations, and proofs of Django concepts such as signals, transactions, threading behavior, and a Python custom class implementation.
+
+---
